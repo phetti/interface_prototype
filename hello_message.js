@@ -1,6 +1,6 @@
 
 
 
-let greeting = "Hello Welcome";
+let greeting = 'Hello Welcome';
 
 document.write(`<h3> ${greeting} </h3>`);
